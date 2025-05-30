@@ -35,8 +35,9 @@ C.Defined screen flow:
   7. Add navigation flow arrows between screens 
   8. Save and export the wireframe design as image or PDF
 ## PDF:
-[Uploading UIUX EXP 4.pdf…]()
 
+
+[UIUX EXP 4.pdf](https://github.com/user-attachments/files/20514576/UIUX.EXP.4.pdf)
 
 ## Result:
 Thus, the experiment was completed successfully.
